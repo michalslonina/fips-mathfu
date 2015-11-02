@@ -1,0 +1,6 @@
+#
+# fips-mathfu
+#
+---
+exports:
+    header-dirs: [ mathfu/include ]
